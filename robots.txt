@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxoloizu.github.io/LhT/sitemap_index.txt
+Sitemap: https://uxoloizu.github.io/nvH/sitemap_index.txt
+Sitemap: https://uxoloizu.github.io/pkf/sitemap_index.txt
+Sitemap: https://uxoloizu.github.io/wvq/sitemap_index.txt
